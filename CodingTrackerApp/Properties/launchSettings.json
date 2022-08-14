@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodingTrackerApp": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\lespe\\source\\repos\\CodingTrackerApp\\CodingTrackerApp\\"
+    }
+  }
+}

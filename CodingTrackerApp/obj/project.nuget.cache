@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jze0usozHaFmklhizjUN2lYrLgeoIZjfhf6c+QL3UEOFKSJk2rDfDEx/TgBZ1fbI/2VLKd6+Pp3r7YZq7ybWfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lespe\\source\\repos\\CodingTrackerApp\\CodingTrackerApp\\CodingTrackerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lespe\\.nuget\\packages\\consoletableext\\3.2.0\\consoletableext.3.2.0.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\microsoft.data.sqlite\\6.0.8\\microsoft.data.sqlite.6.0.8.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.8\\microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\lespe\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
